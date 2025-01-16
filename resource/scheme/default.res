@@ -805,7 +805,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"DIN2014TFRegular"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -816,7 +816,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"DIN2014TFRegular"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -840,7 +840,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"DIN2014TFRegular"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -853,7 +853,7 @@
 			"1"
 			{
 				"name"										"DIN2014TFRegular"
-				"tall"										"24"
+				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -888,7 +888,7 @@
 		{
 			"1"
 			{
-				"name"										"TF2"
+				"name"										"DIN2014TFRegular"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"

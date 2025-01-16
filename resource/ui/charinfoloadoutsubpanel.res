@@ -205,7 +205,7 @@
 			"labelText"				"1"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -259,7 +259,7 @@
 			"labelText"				"2"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -317,7 +317,7 @@
 			"labelText"				"3"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -375,7 +375,7 @@
 			"labelText"				"4"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -433,7 +433,7 @@
 			"labelText"				"5"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -491,7 +491,7 @@
 			"labelText"				"6"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -549,7 +549,7 @@
 			"labelText"				"7"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -607,7 +607,7 @@
 			"labelText"				"8"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -665,7 +665,7 @@
 			"labelText"				"9"
 			"font"					"class26"
 			"textAlignment"			"south"
-			"textinsety"			"-35"
+			"textinsety"			"-12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -821,7 +821,7 @@
 			"labelText"				"b"
 			"font"					"iconsLarge"
 			"textAlignment"			"north"
-			"textinsety"			"35"
+			"textinsety"			"12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -875,7 +875,7 @@
 			"labelText"				"X"
 			"font"					"iconsLarge"
 			"textAlignment"			"north"
-			"textinsety"			"35"
+			"textinsety"			"12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -933,7 +933,7 @@
 			"labelText"				"S"
 			"font"					"iconsLarge"
 			"textAlignment"			"north"
-			"textinsety"			"35"
+			"textinsety"			"12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -991,7 +991,7 @@
 			"labelText"				"t"
 			"font"					"iconsLarge"
 			"textAlignment"			"north"
-			"textinsety"			"35"
+			"textinsety"			"12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -1049,7 +1049,7 @@
 			"labelText"				"P"
 			"font"					"iconsLarge"
 			"textAlignment"			"north"
-			"textinsety"			"35"
+			"textinsety"			"12"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"		"UI/buttonclick.wav"

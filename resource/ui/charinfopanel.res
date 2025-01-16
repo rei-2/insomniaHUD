@@ -19,15 +19,15 @@
 		"outoffocus_bgcolor_override"				"PanelO0"
 
 		"title"										"#CharInfoAndSetup"
-		"title_font"								"HudFontMediumBold"
+		"title_font"								"serosize"
 		"titletextinsetX"							"40"
-		"titletextinsetY"							"-38"
+		"titletextinsetY"							"-1"
 		"titlebarfgcolor_override"					"Blank"
 		"titlebardisabledfgcolor_override"			"Blank"
 		"titlebarbgcolor_override"					"Blank"
 
 		"clientinsetx_override"						"0"
-		"sheetinset_bottom"							"-20"
+		"sheetinset_bottom"							"-6"
 	}
 
 	"MenuColorizer"
@@ -115,7 +115,7 @@
 		"tabheight"									"20"
 		"tabfittotext"								"1"
 		"transition_time" 							"0"
-		"yoffset"									"20"
+		"yoffset"									"6"
 
 		"HeaderLine"
 		{
@@ -231,7 +231,7 @@
 		"image_armedcolor"				"128 224 255 255"
 		"border_default"				"LINE_BOTTOM_PrimaryT3"
 		"border_armed"					"LINE_BOTTOM_Primary"
-		"command"						"url https://www.youtube.com/watch?v=Zcbbi5wfzOQ"
+		"command"						"url https://github.com/leadscales/insomniaHUD"
 
 		"SubImage"
 		{

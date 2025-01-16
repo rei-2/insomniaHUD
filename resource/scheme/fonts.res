@@ -507,6 +507,16 @@
 				"antialias"		"1"
 			}
 		}
+		
+		"serosize"
+		{
+			"1"
+			{
+				"name"										"DIN2014TFRegular"
+				"tall"										"1"
+				"antialias" 								"1"
+			}
+		}
 
 		"VerdanaMenu"										//Create Server Button
 		{
