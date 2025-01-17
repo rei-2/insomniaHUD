@@ -17,7 +17,7 @@
 
 		"log_font_small"			"HudFontSmallest"
 		"log_font_medium"			"HudFontSmallest"
-		"log_font_large"			"HudFontMedium"
+		"log_font_large"			"HudFontSmallest"
 
 		"chat_color_default"		"Text0"
 		"chat_color_player_name"	"Primary"
