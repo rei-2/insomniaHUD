@@ -554,7 +554,7 @@
 		"if_mvm"
 		{
 			"ypos"									"-40"
-			"border"								"LINE_FULL_BOTTOM_White"
+			"border"								"NoBorder"
 		}
 
 		"pin_to_sibling"							"ScoreBG"

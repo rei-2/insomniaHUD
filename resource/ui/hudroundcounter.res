@@ -19,9 +19,9 @@
 
 		"RoundIndicatorPanel_kv"
 		{
-			"ypos"									"24"
-			"wide"									"2"
-			"tall"									"2"
+			"ypos"									"24" // 24, 20, 1?
+			"wide"									"3"
+			"tall"									"3"
 			"zpos"									"7"
 			"image"									"../hud/comp_round_counter_dot_bg"
 			"scaleimage"							"1"
@@ -29,9 +29,9 @@
 
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"									"21"
-			"wide"									"8"
-			"tall"									"8"
+			"ypos"									"24"
+			"wide"									"3"
+			"tall"									"3"
 			"zpos"									"8"
 			"image"									"../hud/comp_round_counter_light_red"
 			"scaleimage"							"1"
@@ -39,9 +39,9 @@
 
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"									"21"
-			"wide"									"8"
-			"tall"									"8"
+			"ypos"									"24"
+			"wide"									"3"
+			"tall"									"3"
 			"zpos"									"8"
 			"image"									"../hud/comp_round_counter_light_blue"
 			"scaleimage"							"1"

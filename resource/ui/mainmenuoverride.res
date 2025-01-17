@@ -230,33 +230,6 @@
 		}
 	}
 
-	"BetaButton"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"BetaButton"
-		"xpos"										"cs-0.5"
-		"ypos"										"rs1-20"
-		"zpos"										"100"
-		"wide"										"100"
-		"tall"										"20"
-		"proportionaltoparent"						"1"	
-		"mouseinputenabled"							"1"
-		"labeltext"									"BETA : WINDOWS" [$WINDOWS]
-		"labeltext"									"BETA : OSX" [$OSX]
-		"labeltext"									"BETA : LINUX" [$LINUX]
-		"labeltext"									"BETA : UNKNOWN" [$WIN32]
-		"command"									"engine clear; showconsole; ih_version"
-		"font"										"regular14"
-		"border_default"							"NoBorder"
-		"border_armed"								"NoBorder"
-		"defaultfgcolor_override"					"PrimaryT2"
-		"armedfgcolor_override"						"Primary"
-		"paintbackground"							"0"
-		"textalignment"								"center"
-		"sound_depressed"							"UI/buttonclick.wav"
-		"sound_released"							"UI/buttonclickrelease.wav"
-	}
-
 	//==================================================================================================================================================
 	// RANK & BADGE
 	//==================================================================================================================================================
@@ -395,7 +368,7 @@
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
-			"border"									"LINE_BOTTOM_PrimaryT3"
+			"border"									"NoBorder"
 		}
 
 		"ButtonsContainerRightMargin"
@@ -408,7 +381,7 @@
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
-			"border"									"LINE_BOTTOM_PrimaryT3"
+			"border"									"NoBorder"
 		}
 
 		"ButtonsContainer"

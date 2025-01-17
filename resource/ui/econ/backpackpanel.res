@@ -258,16 +258,54 @@
 		"armedFgColor_override"						"Text0"
 	}
 
+	"ShowBaseItemsCheckbox"
+	{
+		"ControlName"								"CheckButton"
+		"fieldName"									"ShowBaseItemsCheckbox"
+		"labelText"									"#ShowBaseItemsCheckBox"
+		"Font"										"regular14"
+		"textAlignment"								"west"
+		"xpos"										"c-303"
+		"ypos"										"40"
+		"zpos"										"1"
+		"wide"										"240"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+	}
+
+	"NameFilterTextEntry"
+	{
+		"ControlName"								"TextEntry"
+		"fieldName"									"NameFilterTextEntry"
+		"xpos"										"c-300"
+		"ypos"										"60"
+		"wide"										"239"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabposition"								"1"
+		"textHidden"								"0"
+		"editable"									"1"
+		"unicode"									"1"
+		"fgcolor_override"							"Text0"
+		"bgcolor_override"							"PanelO2"
+		"BgColor"									"Blank"
+		"paintbackgroundtype" 						"2"
+		"paintbackground"							"1"
+		"font"										"regular14"
+	}
+
 	"ShowRarityComboBox"
 	{
 		"ControlName"								"ComboBox"
 		"fieldName"									"ShowRarityComboBox"
 		"Font"										"HudFontSmallestBold"
 		"wrap"										"0"
-		"xpos"										"c-59"
+		"xpos"										"c-60"
 		"ypos"										"60"
 		"zpos"										"1"
-		"wide"										"179"
+		"wide"										"180"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
@@ -297,44 +335,6 @@
 			"paintbackgroundtype"					"0"
 			"paintborder"							"0"
 		}
-	}
-
-	"ShowBaseItemsCheckbox"
-	{
-		"ControlName"								"CheckButton"
-		"fieldName"									"ShowBaseItemsCheckbox"
-		"labelText"									"#ShowBaseItemsCheckBox"
-		"Font"										"regular14"
-		"textAlignment"								"west"
-		"xpos"										"c-300"
-		"ypos"										"41"
-		"zpos"										"1"
-		"wide"										"200"
-		"tall"										"18"
-		"visible"									"1"
-		"enabled"									"1"
-	}
-
-	"NameFilterTextEntry"
-	{
-		"ControlName"								"TextEntry"
-		"fieldName"									"NameFilterTextEntry"
-		"xpos"										"c-299"
-		"ypos"										"60"
-		"wide"										"239"
-		"tall"										"20"
-		"visible"									"1"
-		"enabled"									"1"
-		"tabposition"								"1"
-		"textHidden"								"0"
-		"editable"									"1"
-		"unicode"									"1"
-		"fgcolor_override"							"Text0"
-		"bgcolor_override"							"PanelO2"
-		"BgColor"									"Blank"
-		"paintbackgroundtype" 						"2"
-		"paintbackground"							"1"
-		"font"										"regular14"
 	}
 
 	"SortByComboBox"

@@ -2656,10 +2656,10 @@
 		"ypos"										"0"
 		"zpos"										"2000"
 		"wide"										"f0"
-		"tall"										"f100"
+		"tall"										"f80"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"30 25 25 245"
+		"bgcolor_override"							"Black"
 	}
 
 	"BottomNavigationBar"
@@ -2976,13 +2976,13 @@
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
 				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 			}
-
 		}
+
 		"Backpack"
 		{
 			"ControlName"				"CExButton"
 			"fieldName"					"Backpack"
-			"xpos"						"rs2"
+			"xpos"						"rs1"
 			"ypos"						"0"
 			"zpos"						"5"
 			"wide"						"20"

@@ -108,6 +108,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Sheet"
+		"zpos"										"1"
 		"tabxindent"								"5"
 		"tabyindent"								"5"
 		"tabxdelta"									"0"
@@ -212,38 +213,6 @@
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
-	}
-
-	"LeadButton"
-	{
-		"ControlName"					"CExImageButton"
-		"fieldName"						"LeadButton"
-		"xpos"							"rs1"
-		"ypos"							"rs1"
-		"wide"							"20"
-		"tall"							"20"
-		"proportionaltoparent"			"1"
-		"paintBackground"				"0"
-		"labeltext"						""
-		"image_default"					"replay/thumbnails/lead_logo"
-		"image_armed"					"replay/thumbnails/lead_logo"
-		"image_drawcolor"				"Text0"
-		"image_armedcolor"				"128 224 255 255"
-		"border_default"				"LINE_BOTTOM_PrimaryT3"
-		"border_armed"					"LINE_BOTTOM_Primary"
-		"command"						"url https://github.com/leadscales/insomniaHUD"
-
-		"SubImage"
-		{
-			"ControlName"				"ImagePanel"
-			"fieldName"					"SubImage"
-			"xpos"						"cs-0.5"
-			"ypos"						"cs-0.5"
-			"wide"						"f8"
-			"tall"						"f8"
-			"scaleImage"				"1"
-			"proportionaltoparent"		"1"
-		}
 	}
 
 	"KeyBack"
