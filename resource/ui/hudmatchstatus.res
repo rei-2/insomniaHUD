@@ -668,6 +668,18 @@
 			}
 		}
 	}
+	
+	"RoundCounter"
+	{
+		"fieldName"									"RoundCounter"
+		"xpos"										"cs-0.5"
+		"ypos"										"-2"
+		"zpos"										"1"		
+		"wide"										"300"
+		"tall"										"100"
+		"visible"									"1"
+		"enabled"									"1"
+	}
 
 
 
@@ -675,11 +687,6 @@
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
 
-	"RoundCounter"
-	{
-		"fieldName"									"RoundCounter"
-		"xpos"										"9999"
-	}
 	"CountdownLabelShadow"
 	{
 		"ControlName"								"CExLabel"
