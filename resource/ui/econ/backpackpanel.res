@@ -55,15 +55,21 @@
 				"wide"								"30"
 				"tall"								"10"
 				"visible"							"1"
+				
 				"bgcolor_override"					"Blank"
 				"noitem_textcolor"					"Blank"
-				"PaintBackgroundType"				"0"
-				"paintbackground"					"0"
+				"PaintBackgroundType"				"2"
+				"paintbackground"					"1"
+				"defaultBgColor_override"			"Blank"
+				"armedBgColor_override"				"Blank"
+				"depressedBgColor_override"			"Blank"
+				
 				"paintborder"						"1"
 				"border_default"					"NoBorder"
 				"border_armed"						"FLAT_Primary_4"
 				"border_depressed"					"FLAT_Primary_4"
 				"border_selected"					"FLAT_Primary_4"
+				
 				"textAlignment"						"center"
 				"labelText"							"%page%"
 				"font"								"HudFontSmallestBold"

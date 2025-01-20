@@ -6,7 +6,7 @@
 		"OrangeDim"											"255 255 255 128"
 		"LightOrange"										"255 255 255 128"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"255 255 255 64"
+		"TFOrange"											"19 19 19 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
