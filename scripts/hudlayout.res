@@ -299,10 +299,10 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"9999"	[$WIN32]
-		"ypos"		"9999"	[$WIN32]
-		"wide"		"0"
-		"tall"		"0"
+		"xpos"		"c0-100"
+		"ypos"		"330"
+		"wide"		"200"
+		"tall"		"20"
 	}
 
 	CMainTargetID
@@ -310,10 +310,10 @@
 		"fieldName" 	"CMainTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
-		"xpos"		"c-126"
-		"ypos"		"c20"
-		"wide"	 	"252"
-		"tall"	 	"40"
+		"xpos"		"c"
+		"ypos"		"c16"
+		"wide"	 	"0"
+		"tall"	 	"20"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -1531,4 +1531,3 @@
 		"alpha"					"255"
 	}
 }
-
