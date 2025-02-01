@@ -48,8 +48,8 @@
 	{
 		"ControlName"								"CCurrencyStatusPanel"
 		"fieldName"									"CurrencyStatusPanel"
-		"xpos"										"cs-0.5"
-		"ypos"										"c120"
+		"xpos"										"cs-1"
+		"ypos"										"c100"
 		"wide"										"80"
 		"tall"										"20"
 		"visible" 									"1"
@@ -60,8 +60,8 @@
 	{
 		"ControlName"								"CInWorldCurrencyStatus"
 		"fieldName"									"InWorldCurrencyPanel"
-		"xpos"										"cs-0.5"
-		"ypos"										"c140"
+		"xpos"										"cs"
+		"ypos"										"c100"
 		"wide"										"80"
 		"tall"										"20"
 		"visible" 									"1"

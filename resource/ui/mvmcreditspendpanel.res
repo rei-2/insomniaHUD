@@ -22,7 +22,6 @@
 		"ypos"				"10"
 		"wide"				"70"
 		"tall"				"30"
-		"bgcolor_override"	"PanelT3"
 	}
 
 	"UpgradesLabel"
@@ -53,7 +52,6 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"Blank"
 	}
 
 	"BuyBackLabel"
@@ -84,7 +82,6 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"Blank"
 	}
 
 	"BottleLabel"
@@ -115,6 +112,5 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"Blank"
 	}
 }

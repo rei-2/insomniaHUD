@@ -2,11 +2,6 @@
 
 "Resource/UI/HudRocketPack.res"
 {
-	"HudItemEffectMeter"
-	{
-		"ypos"										"c70"
-	}
-
 	"ItemEffectMeter"
 	{
 		"xpos"										"0"

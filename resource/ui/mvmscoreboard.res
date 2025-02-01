@@ -1,6 +1,5 @@
 "Resource/UI/MvMScoreboard.res"
 {
-
 	"MVMScoreBG"
 	{
 		"ControlName"								"EditablePanel"
@@ -15,7 +14,6 @@
 
 		"paintbackground"							"1"
 		"bgcolor_override"							"PanelT1"
-		"border"									"LINE_FULL_BOTTOM_White"
 	}
 
 	"MVMBorder"
@@ -62,21 +60,21 @@
 
 	"MVMLabel"
 	{
-		"ControlName"							"CExLabel"
-		"fieldName"								"MVMLabel"
-		"xpos"									"0"
-		"ypos"									"0"
-		"zpos"									"6"
-		"wide"									"40"
-		"tall"									"20"
-		"labeltext"								"MVM"
-		"fgcolor"								"m0reRed"
-		"textalignment"							"center"
-		"bgcolor_override"						"PanelT4"
+		"ControlName"								"CExLabel"
+		"fieldName"									"MVMLabel"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"6"
+		"wide"										"40"
+		"tall"										"20"
+		"labeltext"									"MVM"
+		"fgcolor"									"m0reRed"
+		"textalignment"								"center"
+		"bgcolor_override"							"PanelT4"
 
-		"pin_to_sibling"						"MVMScoreBG"
-		"pin_corner_to_sibling"					"PIN_TOPLEFT"
-		"pin_to_sibling_corner"					"PIN_TOPLEFT"
+		"pin_to_sibling"							"MVMScoreBG"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"PopFileLabel"
@@ -153,10 +151,10 @@
 		"ControlName"								"SectionedListPanel"
 		"fieldName"									"MvMPlayerList"
 		"xpos"										"cs-0.5"
-		"ypos"										"102"
+		"ypos"										"98"
 		"zpos"										"10"
 		"wide"										"550"
-		"tall"										"f0"
+		"tall"										"217"
 		"visible"									"1"
 		"enabled"									"1"
 		"autoresize"								"0"
@@ -190,53 +188,54 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"CreditStatsContainer"
 		"xpos"										"cs-0.5"
-		"ypos"										"360"
+		"ypos"										"363"
 		"wide"										"560"
 		"tall"										"40"
 		"visible"									"1"
 
 		"PreviousWaveCreditInfoPanel"
 		{
-			"ControlName"	"CCreditDisplayPanel"
-			"fieldName"		"PreviousWaveCreditInfoPanel"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"280"
-			"tall"			"40"
-			"visible"		"1"
+			"ControlName"							"CCreditDisplayPanel"
+			"fieldName"								"PreviousWaveCreditInfoPanel"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"280"
+			"tall"									"40"
+			"visible"								"1"
+			"bgcolor_override"						"Blank"
 		}
 
 		"TotalGameCreditInfoPanel"
 		{
-			"ControlName"	"CCreditDisplayPanel"
-			"fieldName"		"TotalGameCreditInfoPanel"
-			"xpos"			"280"
-			"ypos"			"0"
-			"wide"			"280"
-			"tall"			"40"
-			"visible"		"1"
+			"ControlName"							"CCreditDisplayPanel"
+			"fieldName"								"TotalGameCreditInfoPanel"
+			"xpos"									"280"
+			"ypos"									"0"
+			"wide"									"280"
+			"tall"									"40"
+			"visible"								"1"
 		}
 
 		"PreviousWaveCreditSpendPanel"
 		{
-			"ControlName"	"CCreditSpendPanel"
-			"fieldName"		"PreviousWaveCreditSpendPanel"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"280"
-			"tall"			"40"
-			"visible"		"1"
+			"ControlName"							"CCreditSpendPanel"
+			"fieldName"								"PreviousWaveCreditSpendPanel"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"280"
+			"tall"									"40"
+			"visible"								"1"
 		}
 
 		"TotalGameCreditSpendPanel"
 		{
-			"ControlName"	"CCreditSpendPanel"
-			"fieldName"		"TotalGameCreditSpendPanel"
-			"xpos"			"280"
-			"ypos"			"0"
-			"wide"			"280"
-			"tall"			"40"
-			"visible"		"1"
+			"ControlName"							"CCreditSpendPanel"
+			"fieldName"								"TotalGameCreditSpendPanel"
+			"xpos"									"280"
+			"ypos"									"0"
+			"wide"									"280"
+			"tall"									"40"
+			"visible"								"1"
 		}
 
 		"RespecStatusLabel"							//NO CLUE WHAT YOU ARE, I DONT PLAY MVM FUCK

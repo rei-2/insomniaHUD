@@ -11,7 +11,7 @@
 		"tall"				"40"
 		"visible"			"1"
 		"paintbackground"	"1"
-		"bgcolor_override"	"PanelT2"
+		"bgcolor_override"	"PanelT1"
 		"border"			"NoBorder"
 	}
 
@@ -27,7 +27,6 @@
 		"visible"			"1"
 		"paintbackground"	"1"
 		"border"			"NoBorder"
-		"bgcolor_override"	"PanelT2"
 	}
 
 	"ValuesBG"
@@ -38,7 +37,6 @@
 		"ypos"				"10"
 		"wide"				"70"
 		"tall"				"30"
-		"bgcolor_override"	"PanelT3"
 	}
 
 	"HeaderLabel"
@@ -57,7 +55,6 @@
 		"wide"				"f0"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"Blank"
 	}
 
 	"CreditCollectedTextLabel"
@@ -88,7 +85,6 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"bgcolor_override"	"Blank"
 	}
 
 	"CreditMissedTextLabel"
@@ -117,7 +113,6 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Negative"
-		"bgcolor_override"	"Blank"
 	}
 
 	"CreditBonusTextLabel"
@@ -146,7 +141,6 @@
 		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"bgcolor_override"	"Blank"
 	}
 
 	"CreditRatingLabel"
@@ -162,6 +156,5 @@
 		"wide"				"10"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"PanelT3"
 	}
 }
