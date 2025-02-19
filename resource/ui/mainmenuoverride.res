@@ -447,6 +447,7 @@
 
 					"defaultbgcolor_override"				"Blank"
 					"armedbgcolor_override"					"Blank"
+					"depressedbgcolor_override"				"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -502,6 +503,7 @@
 
 					"defaultbgcolor_override"				"Blank"
 					"armedbgcolor_override"					"Blank"
+					"depressedbgcolor_override"				"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -557,6 +559,7 @@
 
 					"defaultbgcolor_override"				"Blank"
 					"armedbgcolor_override"					"Blank"
+					"depressedbgcolor_override"				"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -612,6 +615,7 @@
 
 					"defaultbgcolor_override"				"Blank"
 					"armedbgcolor_override"					"Blank"
+					"depressedbgcolor_override"				"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -667,6 +671,7 @@
 
 					"defaultbgcolor_override"				"Blank"
 					"armedbgcolor_override"					"Blank"
+					"depressedbgcolor_override"				"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}

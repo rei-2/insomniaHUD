@@ -146,7 +146,7 @@
 		"tall"					"60"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
-		"border"				"CHARLINE_BOTTOM"
+		"border"				"LINE_BOTTOM_Primary"
 
 		"pin_to_sibling"		"ParentPanel"
 		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
@@ -164,7 +164,7 @@
 		"tall"					"60"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"		"0"
-		"border"				"CHARLINE_TOP"
+		"border"				"Blank"
 
 		"pin_to_sibling"		"ParentPanel"
 		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
@@ -216,6 +216,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 		}
@@ -270,6 +271,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -328,6 +330,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -386,6 +389,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -444,6 +448,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -502,6 +507,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -560,6 +566,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -618,6 +625,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -676,6 +684,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -832,6 +841,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 		}
@@ -886,6 +896,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -944,6 +955,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -1002,6 +1014,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 
@@ -1060,6 +1073,7 @@
 
 			"defaultbgcolor_override"	"Blank"
 			"armedbgcolor_override"		"PanelT3"
+			"depressedbgcolor_override"	"PanelT4"
 			"defaultfgcolor_override"	"Text0"
 			"armedfgcolor_override"		"Text0"
 

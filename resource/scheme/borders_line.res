@@ -10,12 +10,7 @@
 				"1"
 				{
 					"color"			"Primary"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Primary"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -25,11 +20,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"Primary"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Primary"
 					"offset"		"0 0"
@@ -44,12 +34,7 @@
 				"1"
 				{
 					"color"			"Primary"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Primary"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -59,11 +44,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"Primary"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Primary"
 					"offset"		"0 0"
@@ -78,12 +58,7 @@
 				"1"
 				{
 					"color"			"Primary"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Primary"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -93,11 +68,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"Primary"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Primary"
 					"offset"		"0 0"
@@ -112,12 +82,7 @@
 				"1"
 				{
 					"color"			"Primary"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Primary"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -127,11 +92,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"Primary"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Primary"
 					"offset"		"0 0"
@@ -146,12 +106,7 @@
 				"1"
 				{
 					"color"			"White"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"White"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -161,11 +116,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"White"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"White"
 					"offset"		"0 0"
@@ -180,12 +130,7 @@
 				"1"
 				{
 					"color"			"White"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"White"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -195,11 +140,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"White"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"White"
 					"offset"		"0 0"
@@ -214,12 +154,7 @@
 				"1"
 				{
 					"color"			"White"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"White"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -229,11 +164,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"White"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"White"
 					"offset"		"0 0"
@@ -248,12 +178,7 @@
 				"1"
 				{
 					"color"			"White"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"White"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -263,11 +188,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"White"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"White"
 					"offset"		"0 0"
@@ -282,12 +202,7 @@
 				"1"
 				{
 					"color"			"Positive"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Positive"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -297,11 +212,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"Positive"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Positive"
 					"offset"		"0 0"
@@ -316,12 +226,7 @@
 				"1"
 				{
 					"color"			"Positive"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Positive"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -331,11 +236,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"Positive"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Positive"
 					"offset"		"0 0"
@@ -350,12 +250,7 @@
 				"1"
 				{
 					"color"			"Positive"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Positive"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -365,11 +260,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"Positive"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Positive"
 					"offset"		"0 0"
@@ -384,12 +274,7 @@
 				"1"
 				{
 					"color"			"Positive"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Positive"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -399,11 +284,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"Positive"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Positive"
 					"offset"		"0 0"
@@ -418,12 +298,7 @@
 				"1"
 				{
 					"color"			"Warning"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Warning"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -433,11 +308,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"Warning"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Warning"
 					"offset"		"0 0"
@@ -452,12 +322,7 @@
 				"1"
 				{
 					"color"			"Warning"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Warning"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -467,11 +332,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"Warning"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Warning"
 					"offset"		"0 0"
@@ -486,12 +346,7 @@
 				"1"
 				{
 					"color"			"Warning"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Warning"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -501,11 +356,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"Warning"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Warning"
 					"offset"		"0 0"
@@ -520,12 +370,7 @@
 				"1"
 				{
 					"color"			"Warning"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Warning"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -535,11 +380,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"Warning"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Warning"
 					"offset"		"0 0"
@@ -554,12 +394,7 @@
 				"1"
 				{
 					"color"			"Negative"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Negative"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -569,11 +404,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"Negative"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Negative"
 					"offset"		"0 0"
@@ -588,12 +418,7 @@
 				"1"
 				{
 					"color"			"Negative"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Negative"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -603,11 +428,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"Negative"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Negative"
 					"offset"		"0 0"
@@ -622,12 +442,7 @@
 				"1"
 				{
 					"color"			"Negative"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Negative"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -637,11 +452,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"Negative"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Negative"
 					"offset"		"0 0"
@@ -656,12 +466,7 @@
 				"1"
 				{
 					"color"			"Negative"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"Negative"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -671,11 +476,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"Negative"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"Negative"
 					"offset"		"0 0"
@@ -690,12 +490,7 @@
 				"1"
 				{
 					"color"			"m0reRed"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRed"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -705,11 +500,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reRed"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRed"
 					"offset"		"0 0"
@@ -724,12 +514,7 @@
 				"1"
 				{
 					"color"			"m0reRed"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRed"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -739,11 +524,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reRed"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRed"
 					"offset"		"0 0"
@@ -758,12 +538,7 @@
 				"1"
 				{
 					"color"			"m0reRed"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRed"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -773,11 +548,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reRed"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRed"
 					"offset"		"0 0"
@@ -792,12 +562,7 @@
 				"1"
 				{
 					"color"			"m0reRed"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRed"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -807,11 +572,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reRed"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRed"
 					"offset"		"0 0"
@@ -826,12 +586,7 @@
 				"1"
 				{
 					"color"			"m0reBlue"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlue"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -841,11 +596,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reBlue"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlue"
 					"offset"		"0 0"
@@ -860,12 +610,7 @@
 				"1"
 				{
 					"color"			"m0reBlue"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlue"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -875,11 +620,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reBlue"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlue"
 					"offset"		"0 0"
@@ -894,12 +634,7 @@
 				"1"
 				{
 					"color"			"m0reBlue"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlue"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -909,11 +644,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reBlue"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlue"
 					"offset"		"0 0"
@@ -928,12 +658,7 @@
 				"1"
 				{
 					"color"			"m0reBlue"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlue"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -943,11 +668,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reBlue"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlue"
 					"offset"		"0 0"
@@ -962,12 +682,7 @@
 				"1"
 				{
 					"color"			"PrimaryT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -977,11 +692,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT1"
 					"offset"		"0 0"
@@ -996,12 +706,7 @@
 				"1"
 				{
 					"color"			"PrimaryT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1011,11 +716,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT1"
 					"offset"		"0 0"
@@ -1030,12 +730,7 @@
 				"1"
 				{
 					"color"			"PrimaryT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1045,11 +740,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT1"
 					"offset"		"0 0"
@@ -1064,12 +754,7 @@
 				"1"
 				{
 					"color"			"PrimaryT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1079,11 +764,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PrimaryT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT1"
 					"offset"		"0 0"
@@ -1098,12 +778,7 @@
 				"1"
 				{
 					"color"			"WhiteT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1113,11 +788,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WhiteT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT1"
 					"offset"		"0 0"
@@ -1132,12 +802,7 @@
 				"1"
 				{
 					"color"			"WhiteT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1147,11 +812,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WhiteT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT1"
 					"offset"		"0 0"
@@ -1166,12 +826,7 @@
 				"1"
 				{
 					"color"			"WhiteT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1181,11 +836,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WhiteT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT1"
 					"offset"		"0 0"
@@ -1200,12 +850,7 @@
 				"1"
 				{
 					"color"			"WhiteT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1215,11 +860,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WhiteT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT1"
 					"offset"		"0 0"
@@ -1234,12 +874,7 @@
 				"1"
 				{
 					"color"			"PositiveT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1249,11 +884,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PositiveT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT1"
 					"offset"		"0 0"
@@ -1268,12 +898,7 @@
 				"1"
 				{
 					"color"			"PositiveT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1283,11 +908,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PositiveT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT1"
 					"offset"		"0 0"
@@ -1302,12 +922,7 @@
 				"1"
 				{
 					"color"			"PositiveT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1317,11 +932,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PositiveT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT1"
 					"offset"		"0 0"
@@ -1336,12 +946,7 @@
 				"1"
 				{
 					"color"			"PositiveT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1351,11 +956,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PositiveT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT1"
 					"offset"		"0 0"
@@ -1370,12 +970,7 @@
 				"1"
 				{
 					"color"			"WarningT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1385,11 +980,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WarningT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT1"
 					"offset"		"0 0"
@@ -1404,12 +994,7 @@
 				"1"
 				{
 					"color"			"WarningT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1419,11 +1004,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WarningT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT1"
 					"offset"		"0 0"
@@ -1438,12 +1018,7 @@
 				"1"
 				{
 					"color"			"WarningT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1453,11 +1028,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WarningT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT1"
 					"offset"		"0 0"
@@ -1472,12 +1042,7 @@
 				"1"
 				{
 					"color"			"WarningT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1487,11 +1052,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WarningT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT1"
 					"offset"		"0 0"
@@ -1506,12 +1066,7 @@
 				"1"
 				{
 					"color"			"NegativeT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1521,11 +1076,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"NegativeT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT1"
 					"offset"		"0 0"
@@ -1540,12 +1090,7 @@
 				"1"
 				{
 					"color"			"NegativeT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1555,11 +1100,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"NegativeT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT1"
 					"offset"		"0 0"
@@ -1574,12 +1114,7 @@
 				"1"
 				{
 					"color"			"NegativeT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1589,11 +1124,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"NegativeT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT1"
 					"offset"		"0 0"
@@ -1608,12 +1138,7 @@
 				"1"
 				{
 					"color"			"NegativeT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1623,11 +1148,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"NegativeT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT1"
 					"offset"		"0 0"
@@ -1642,12 +1162,7 @@
 				"1"
 				{
 					"color"			"m0reRedT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1657,11 +1172,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT1"
 					"offset"		"0 0"
@@ -1676,12 +1186,7 @@
 				"1"
 				{
 					"color"			"m0reRedT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1691,11 +1196,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT1"
 					"offset"		"0 0"
@@ -1710,12 +1210,7 @@
 				"1"
 				{
 					"color"			"m0reRedT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1725,11 +1220,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT1"
 					"offset"		"0 0"
@@ -1744,12 +1234,7 @@
 				"1"
 				{
 					"color"			"m0reRedT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1759,11 +1244,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reRedT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT1"
 					"offset"		"0 0"
@@ -1778,12 +1258,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1793,11 +1268,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT1"
 					"offset"		"0 0"
@@ -1812,12 +1282,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1827,11 +1292,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT1"
 					"offset"		"0 0"
@@ -1846,12 +1306,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1861,11 +1316,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT1"
 					"offset"		"0 0"
@@ -1880,12 +1330,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT1"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1895,11 +1340,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT1"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT1"
 					"offset"		"0 0"
@@ -1914,12 +1354,7 @@
 				"1"
 				{
 					"color"			"PrimaryT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1929,11 +1364,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT2"
 					"offset"		"0 0"
@@ -1948,12 +1378,7 @@
 				"1"
 				{
 					"color"			"PrimaryT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1963,11 +1388,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT2"
 					"offset"		"0 0"
@@ -1982,12 +1402,7 @@
 				"1"
 				{
 					"color"			"PrimaryT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -1997,11 +1412,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT2"
 					"offset"		"0 0"
@@ -2016,12 +1426,7 @@
 				"1"
 				{
 					"color"			"PrimaryT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2031,11 +1436,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PrimaryT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT2"
 					"offset"		"0 0"
@@ -2050,12 +1450,7 @@
 				"1"
 				{
 					"color"			"WhiteT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2065,11 +1460,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WhiteT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT2"
 					"offset"		"0 0"
@@ -2084,12 +1474,7 @@
 				"1"
 				{
 					"color"			"WhiteT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2099,11 +1484,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WhiteT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT2"
 					"offset"		"0 0"
@@ -2118,12 +1498,7 @@
 				"1"
 				{
 					"color"			"WhiteT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2133,11 +1508,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WhiteT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT2"
 					"offset"		"0 0"
@@ -2152,12 +1522,7 @@
 				"1"
 				{
 					"color"			"WhiteT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2167,11 +1532,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WhiteT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT2"
 					"offset"		"0 0"
@@ -2186,12 +1546,7 @@
 				"1"
 				{
 					"color"			"PositiveT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2201,11 +1556,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PositiveT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT2"
 					"offset"		"0 0"
@@ -2220,12 +1570,7 @@
 				"1"
 				{
 					"color"			"PositiveT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2235,11 +1580,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PositiveT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT2"
 					"offset"		"0 0"
@@ -2254,12 +1594,7 @@
 				"1"
 				{
 					"color"			"PositiveT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2269,11 +1604,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PositiveT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT2"
 					"offset"		"0 0"
@@ -2288,12 +1618,7 @@
 				"1"
 				{
 					"color"			"PositiveT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2303,11 +1628,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PositiveT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT2"
 					"offset"		"0 0"
@@ -2322,12 +1642,7 @@
 				"1"
 				{
 					"color"			"WarningT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2337,11 +1652,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WarningT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT2"
 					"offset"		"0 0"
@@ -2356,12 +1666,7 @@
 				"1"
 				{
 					"color"			"WarningT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2371,11 +1676,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WarningT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT2"
 					"offset"		"0 0"
@@ -2390,12 +1690,7 @@
 				"1"
 				{
 					"color"			"WarningT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2405,11 +1700,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WarningT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT2"
 					"offset"		"0 0"
@@ -2424,12 +1714,7 @@
 				"1"
 				{
 					"color"			"WarningT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2439,11 +1724,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WarningT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT2"
 					"offset"		"0 0"
@@ -2458,12 +1738,7 @@
 				"1"
 				{
 					"color"			"NegativeT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2473,11 +1748,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"NegativeT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT2"
 					"offset"		"0 0"
@@ -2492,12 +1762,7 @@
 				"1"
 				{
 					"color"			"NegativeT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2507,11 +1772,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"NegativeT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT2"
 					"offset"		"0 0"
@@ -2526,12 +1786,7 @@
 				"1"
 				{
 					"color"			"NegativeT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2541,11 +1796,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"NegativeT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT2"
 					"offset"		"0 0"
@@ -2560,12 +1810,7 @@
 				"1"
 				{
 					"color"			"NegativeT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2575,11 +1820,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"NegativeT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT2"
 					"offset"		"0 0"
@@ -2594,12 +1834,7 @@
 				"1"
 				{
 					"color"			"m0reRedT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2609,11 +1844,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT2"
 					"offset"		"0 0"
@@ -2628,12 +1858,7 @@
 				"1"
 				{
 					"color"			"m0reRedT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2643,11 +1868,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT2"
 					"offset"		"0 0"
@@ -2662,12 +1882,7 @@
 				"1"
 				{
 					"color"			"m0reRedT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2677,11 +1892,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT2"
 					"offset"		"0 0"
@@ -2696,12 +1906,7 @@
 				"1"
 				{
 					"color"			"m0reRedT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2711,11 +1916,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reRedT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT2"
 					"offset"		"0 0"
@@ -2730,12 +1930,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2745,11 +1940,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT2"
 					"offset"		"0 0"
@@ -2764,12 +1954,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2779,11 +1964,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT2"
 					"offset"		"0 0"
@@ -2798,12 +1978,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2813,11 +1988,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT2"
 					"offset"		"0 0"
@@ -2832,12 +2002,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT2"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2847,11 +2012,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT2"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT2"
 					"offset"		"0 0"
@@ -2866,12 +2026,7 @@
 				"1"
 				{
 					"color"			"PrimaryT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2881,11 +2036,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT3"
 					"offset"		"0 0"
@@ -2900,12 +2050,7 @@
 				"1"
 				{
 					"color"			"PrimaryT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2915,11 +2060,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT3"
 					"offset"		"0 0"
@@ -2934,12 +2074,7 @@
 				"1"
 				{
 					"color"			"PrimaryT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2949,11 +2084,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT3"
 					"offset"		"0 0"
@@ -2968,12 +2098,7 @@
 				"1"
 				{
 					"color"			"PrimaryT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -2983,11 +2108,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PrimaryT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT3"
 					"offset"		"0 0"
@@ -3002,12 +2122,7 @@
 				"1"
 				{
 					"color"			"WhiteT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3017,11 +2132,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WhiteT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT3"
 					"offset"		"0 0"
@@ -3036,12 +2146,7 @@
 				"1"
 				{
 					"color"			"WhiteT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3051,11 +2156,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WhiteT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT3"
 					"offset"		"0 0"
@@ -3070,12 +2170,7 @@
 				"1"
 				{
 					"color"			"WhiteT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3085,11 +2180,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WhiteT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT3"
 					"offset"		"0 0"
@@ -3104,12 +2194,7 @@
 				"1"
 				{
 					"color"			"WhiteT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3119,11 +2204,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WhiteT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT3"
 					"offset"		"0 0"
@@ -3138,12 +2218,7 @@
 				"1"
 				{
 					"color"			"PositiveT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3153,11 +2228,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PositiveT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT3"
 					"offset"		"0 0"
@@ -3172,12 +2242,7 @@
 				"1"
 				{
 					"color"			"PositiveT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3187,11 +2252,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PositiveT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT3"
 					"offset"		"0 0"
@@ -3206,12 +2266,7 @@
 				"1"
 				{
 					"color"			"PositiveT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3221,11 +2276,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PositiveT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT3"
 					"offset"		"0 0"
@@ -3240,12 +2290,7 @@
 				"1"
 				{
 					"color"			"PositiveT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3255,11 +2300,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PositiveT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT3"
 					"offset"		"0 0"
@@ -3274,12 +2314,7 @@
 				"1"
 				{
 					"color"			"WarningT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3289,11 +2324,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WarningT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT3"
 					"offset"		"0 0"
@@ -3308,12 +2338,7 @@
 				"1"
 				{
 					"color"			"WarningT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3323,11 +2348,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WarningT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT3"
 					"offset"		"0 0"
@@ -3342,12 +2362,7 @@
 				"1"
 				{
 					"color"			"WarningT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3357,11 +2372,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WarningT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT3"
 					"offset"		"0 0"
@@ -3376,12 +2386,7 @@
 				"1"
 				{
 					"color"			"WarningT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3391,11 +2396,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WarningT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT3"
 					"offset"		"0 0"
@@ -3410,12 +2410,7 @@
 				"1"
 				{
 					"color"			"NegativeT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3425,11 +2420,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"NegativeT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT3"
 					"offset"		"0 0"
@@ -3444,12 +2434,7 @@
 				"1"
 				{
 					"color"			"NegativeT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3459,11 +2444,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"NegativeT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT3"
 					"offset"		"0 0"
@@ -3478,12 +2458,7 @@
 				"1"
 				{
 					"color"			"NegativeT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3493,11 +2468,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"NegativeT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT3"
 					"offset"		"0 0"
@@ -3512,12 +2482,7 @@
 				"1"
 				{
 					"color"			"NegativeT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3527,11 +2492,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"NegativeT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT3"
 					"offset"		"0 0"
@@ -3546,12 +2506,7 @@
 				"1"
 				{
 					"color"			"m0reRedT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3561,11 +2516,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT3"
 					"offset"		"0 0"
@@ -3580,12 +2530,7 @@
 				"1"
 				{
 					"color"			"m0reRedT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3595,11 +2540,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT3"
 					"offset"		"0 0"
@@ -3614,12 +2554,7 @@
 				"1"
 				{
 					"color"			"m0reRedT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3629,11 +2564,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT3"
 					"offset"		"0 0"
@@ -3648,12 +2578,7 @@
 				"1"
 				{
 					"color"			"m0reRedT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3663,11 +2588,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reRedT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT3"
 					"offset"		"0 0"
@@ -3682,12 +2602,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3697,11 +2612,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT3"
 					"offset"		"0 0"
@@ -3716,12 +2626,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3731,11 +2636,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT3"
 					"offset"		"0 0"
@@ -3750,12 +2650,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3765,11 +2660,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT3"
 					"offset"		"0 0"
@@ -3784,12 +2674,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT3"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3799,11 +2684,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT3"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT3"
 					"offset"		"0 0"
@@ -3818,12 +2698,7 @@
 				"1"
 				{
 					"color"			"PrimaryT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3833,11 +2708,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT4"
 					"offset"		"0 0"
@@ -3852,12 +2722,7 @@
 				"1"
 				{
 					"color"			"PrimaryT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3867,11 +2732,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT4"
 					"offset"		"0 0"
@@ -3886,12 +2746,7 @@
 				"1"
 				{
 					"color"			"PrimaryT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3901,11 +2756,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT4"
 					"offset"		"0 0"
@@ -3920,12 +2770,7 @@
 				"1"
 				{
 					"color"			"PrimaryT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3935,11 +2780,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PrimaryT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PrimaryT4"
 					"offset"		"0 0"
@@ -3954,12 +2794,7 @@
 				"1"
 				{
 					"color"			"WhiteT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -3969,11 +2804,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WhiteT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT4"
 					"offset"		"0 0"
@@ -3988,12 +2818,7 @@
 				"1"
 				{
 					"color"			"WhiteT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4003,11 +2828,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WhiteT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT4"
 					"offset"		"0 0"
@@ -4022,12 +2842,7 @@
 				"1"
 				{
 					"color"			"WhiteT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4037,11 +2852,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WhiteT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT4"
 					"offset"		"0 0"
@@ -4056,12 +2866,7 @@
 				"1"
 				{
 					"color"			"WhiteT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WhiteT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4071,11 +2876,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WhiteT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WhiteT4"
 					"offset"		"0 0"
@@ -4090,12 +2890,7 @@
 				"1"
 				{
 					"color"			"PositiveT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4105,11 +2900,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"PositiveT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT4"
 					"offset"		"0 0"
@@ -4124,12 +2914,7 @@
 				"1"
 				{
 					"color"			"PositiveT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4139,11 +2924,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"PositiveT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT4"
 					"offset"		"0 0"
@@ -4158,12 +2938,7 @@
 				"1"
 				{
 					"color"			"PositiveT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4173,11 +2948,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"PositiveT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT4"
 					"offset"		"0 0"
@@ -4192,12 +2962,7 @@
 				"1"
 				{
 					"color"			"PositiveT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"PositiveT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4207,11 +2972,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"PositiveT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"PositiveT4"
 					"offset"		"0 0"
@@ -4226,12 +2986,7 @@
 				"1"
 				{
 					"color"			"WarningT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4241,11 +2996,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"WarningT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT4"
 					"offset"		"0 0"
@@ -4260,12 +3010,7 @@
 				"1"
 				{
 					"color"			"WarningT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4275,11 +3020,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"WarningT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT4"
 					"offset"		"0 0"
@@ -4294,12 +3034,7 @@
 				"1"
 				{
 					"color"			"WarningT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4309,11 +3044,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"WarningT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT4"
 					"offset"		"0 0"
@@ -4328,12 +3058,7 @@
 				"1"
 				{
 					"color"			"WarningT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"WarningT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4343,11 +3068,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"WarningT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"WarningT4"
 					"offset"		"0 0"
@@ -4362,12 +3082,7 @@
 				"1"
 				{
 					"color"			"NegativeT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4377,11 +3092,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"NegativeT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT4"
 					"offset"		"0 0"
@@ -4396,12 +3106,7 @@
 				"1"
 				{
 					"color"			"NegativeT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4411,11 +3116,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"NegativeT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT4"
 					"offset"		"0 0"
@@ -4430,12 +3130,7 @@
 				"1"
 				{
 					"color"			"NegativeT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4445,11 +3140,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"NegativeT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT4"
 					"offset"		"0 0"
@@ -4464,12 +3154,7 @@
 				"1"
 				{
 					"color"			"NegativeT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"NegativeT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4479,11 +3164,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"NegativeT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"NegativeT4"
 					"offset"		"0 0"
@@ -4498,12 +3178,7 @@
 				"1"
 				{
 					"color"			"m0reRedT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4513,11 +3188,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT4"
 					"offset"		"0 0"
@@ -4532,12 +3202,7 @@
 				"1"
 				{
 					"color"			"m0reRedT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4547,11 +3212,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT4"
 					"offset"		"0 0"
@@ -4566,12 +3226,7 @@
 				"1"
 				{
 					"color"			"m0reRedT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4581,11 +3236,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT4"
 					"offset"		"0 0"
@@ -4600,12 +3250,7 @@
 				"1"
 				{
 					"color"			"m0reRedT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4615,11 +3260,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reRedT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reRedT4"
 					"offset"		"0 0"
@@ -4634,12 +3274,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4649,11 +3284,6 @@
 			"Left"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT4"
 					"offset"		"0 0"
@@ -4668,12 +3298,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4683,11 +3308,6 @@
 			"Top"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT4"
 					"offset"		"0 0"
@@ -4702,12 +3322,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4717,11 +3332,6 @@
 			"Right"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT4"
 					"offset"		"0 0"
@@ -4736,12 +3346,7 @@
 				"1"
 				{
 					"color"			"m0reBlueT4"
-					"offset"		"1 1"
-				}
-				"2"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"1 1"
+					"offset"		"0 1"
 				}
 			}
 		}
@@ -4751,11 +3356,6 @@
 			"Bottom"
 			{
 				"1"
-				{
-					"color"			"m0reBlueT4"
-					"offset"		"0 0"
-				}
-				"2"
 				{
 					"color"			"m0reBlueT4"
 					"offset"		"0 0"
