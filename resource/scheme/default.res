@@ -32,6 +32,7 @@
 		"RedSolid"											"192 28 0 255"
 		"Blue"												"0 28 162 140"
 		"Yellow"											"255 255 255 255"
+		"Green"												"125 60 255 255"
 		"TransparentYellow"									"255 255 255 160"
 		"BrightYellow"										"251 235 0 255"
 		"GreenSolid"										"76 107 34 255"
