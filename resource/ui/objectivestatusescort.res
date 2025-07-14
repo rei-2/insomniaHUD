@@ -59,7 +59,7 @@
 		"fieldName"									"HomeCPIcon"
 		"xpos"										"68"
 		"ypos"										"38"
-		"zpos"										"1"
+		"zpos"										"5"
 		"wide"										"8"
 		"tall"										"8"
 		"visible"									"1"

@@ -191,6 +191,7 @@
 		"tileVertically"							"0"
 		"drawcolor"									"112 176 74 255"
 	}
+	
 	"CurPageLabel"
 	{
 		"ControlName"								"CExLabel"
